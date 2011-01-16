@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <PropertyList include="mirageIIING-jsbsim-cnf.xml"> -->
+<PropertyList include="mirageIIING-yasim-cnf.xml">
+
+  <sim>
+    <description>Mirage IIING</description>
+    <author>BARANGER Emmanuel</author>
+  </sim>
+
+</PropertyList>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <path>right.ac</path>
+
+  <animation>
+    <!-- Objets opaques -->
+    <object-name>panel.right</object-name>
+
+    <!-- Objets transparents -->
+  </animation>
+ 
+  <!-- KA51B -->
+  <model>
+    <path>Aircraft/MirageIII/Models/Interior/Panel/Instruments/kcs55/ka51b.xml</path>
+    <offsets>
+      <x-m> -0.362 </x-m>
+      <y-m> -0.047 </y-m>
+      <z-m>  0.203 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>  -90 </pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- KCS55 -->
+  <model>
+    <path>Aircraft/MirageIII/Models/Interior/Panel/Instruments/uhf-box/uhf-box.xml</path>
+    <offsets>
+      <x-m> -0.236 </x-m>
+      <y-m> -0.013 </y-m>
+      <z-m>  0.204 </z-m>
+      <roll-deg>      0 </roll-deg>
+      <pitch-deg>   -90 </pitch-deg>
+      <heading-deg> -90 </heading-deg>
+    </offsets>
+  </model>
+
+</PropertyList>
+

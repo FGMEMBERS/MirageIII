@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <path>canards.ac</path>
+
+  <animation>
+    <!-- Objets opaques -->
+    <object-name>canardG</object-name>
+    <object-name>canardD</object-name>
+    <object-name>devantailes</object-name>
+
+    <!-- Objets transparents -->
+  </animation>
+
+</PropertyList>
+

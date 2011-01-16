@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+************************************************************************
+Mirage IIING
+Januray 2011 : BARANGER Emmanuel
+************************************************************************
+-->
+
+<PropertyList include="mirageIII-base.xml">
+
+  <sim>
+
+    <description>Mirage III NG (YASim)</description>
+    <flight-model>yasim</flight-model>
+    <aero>mirageIIING-yasim</aero>
+
+    <model>
+      <path>Aircraft/MirageIII/Models/mirageIIING.xml</path>
+      <livery>
+        <file type="string">default</file>
+      </livery>
+    </model>
+
+    <startup>
+      <splash-texture>Aircraft/MirageIII/Splash/mirageIIING-splash.png</splash-texture>
+    </startup>
+
+  </sim>
+  
+</PropertyList>
+

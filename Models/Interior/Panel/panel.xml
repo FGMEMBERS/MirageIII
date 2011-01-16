@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <path>panel.ac</path>
+
+  <animation>
+    <!-- Objets opaques -->
+    <object-name>panel</object-name>
+
+    <!-- Objets transparents -->
+  </animation>
+ 
+  <!-- ACCEL -->
+  <model>
+    <path>Aircraft/MirageIII/Models/Interior/Panel/Instruments/accel/accel.xml</path>
+    <offsets>
+      <x-m>  0.326 </x-m>
+      <y-m>  0.130 </y-m>
+      <z-m> -0.090 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- AI -->
+  <model>
+    <path>Aircraft/MirageIII/Models/Interior/Panel/Instruments/ai/ai.xml</path>
+    <offsets>
+      <x-m>  0.326 </x-m>
+      <y-m> -0.150 </y-m>
+      <z-m>  0.050 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- ASI -->
+  <model>
+    <path>Aircraft/MirageIII/Models/Interior/Panel/Instruments/asi/asi.xml</path>
+    <offsets>
+      <x-m>  0.326 </x-m>
+      <y-m> -0.130 </y-m>
+      <z-m> -0.055 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- ALT -->
+  <model>
+    <path>Aircraft/MirageIII/Models/Interior/Panel/Instruments/alt/alt.xml</path>
+    <offsets>
+      <x-m>  0.325 </x-m>
+      <y-m> -0.130 </y-m>
+      <z-m> -0.160 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- VSI -->
+  <model>
+    <path>Aircraft/MirageIII/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
+    <offsets>
+      <x-m>  0.327 </x-m>
+      <y-m> -0.230 </y-m>
+      <z-m> -0.160 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- ADI -->
+  <model>
+    <path>Aircraft/MirageIII/Models/Interior/Panel/Instruments/adi/adi.xml</path>
+    <offsets>
+      <x-m>  0.306 </x-m>
+      <y-m> -0.230 </y-m>
+      <z-m> -0.055 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- KCS55 -->
+  <model>
+    <path>Aircraft/MirageIII/Models/Interior/Panel/Instruments/kcs55/ki525a.xml</path>
+    <offsets>
+      <x-m>  0.332 </x-m>
+      <y-m>  0.000 </y-m>
+      <z-m> -0.070 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- PRESSURE -->
+  <model>
+    <path>Aircraft/MirageIII/Models/Interior/Panel/Instruments/pressure/pression.xml</path>
+    <offsets>
+      <x-m>  0.327 </x-m>
+      <y-m>  0.180 </y-m>
+      <z-m> -0.180 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- FUEL -->
+  <model>
+    <path>Aircraft/MirageIII/Models/Interior/Panel/Instruments/fuel/fuel.xml</path>
+    <offsets>
+      <x-m>  0.326 </x-m>
+      <y-m>  0.250 </y-m>
+      <z-m> -0.180 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+</PropertyList>
+
