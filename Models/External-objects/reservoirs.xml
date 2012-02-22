@@ -20,9 +20,7 @@
     <type>select</type>
     <object-name>reservoirs</object-name>
     <condition>
-      <not>
-        <property>sim/model/hide-reservoirs</property>
-      </not>
+      <property>sim/model/hide-reservoirs</property>
     </condition>
   </animation>
 

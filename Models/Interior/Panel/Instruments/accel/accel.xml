@@ -40,12 +40,7 @@
     <type>rotate</type>
     <object-name>needle</object-name>
     <property>/accelerations/pilot-g</property>
-    <factor>22.5</factor>
-    <center>
-      <x-m> 0 </x-m>
-      <y-m> 0 </y-m>
-      <z-m> 0 </z-m>
-    </center>
+    <factor> 22.5 </factor>
     <axis>
       <x> -1 </x>
       <y>  0 </y>

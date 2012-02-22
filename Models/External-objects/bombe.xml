@@ -20,9 +20,7 @@
     <type>select</type>
     <object-name>bombe</object-name>
     <condition>
-      <not>
-        <property>sim/model/hide-bombe</property>
-      </not>
+      <property>sim/model/hide-bombe</property>
     </condition>
   </animation>
 

@@ -19,6 +19,7 @@ Januray 2011 : BARANGER Emmanuel
       <livery>
         <file type="string">default</file>
       </livery>
+      <hide-bombe>false</hide-bombe>
     </model>
 
     <startup>

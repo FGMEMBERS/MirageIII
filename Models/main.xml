@@ -243,6 +243,16 @@
     </offsets>
   </model>
 
+  <!-- Bombe -->
+  <model>
+    <path>Aircraft/MirageIII/Models/External-objects/bombe.xml</path>
+    <offsets>
+      <x-m>  4.159 </x-m>
+      <y-m>  0.000 </y-m>
+      <z-m> -1.323 </z-m>
+    </offsets>
+  </model>
+
   <!-- Flamme -->
   <model>
     <path>Aircraft/MirageIII/Models/Effects/flammes/flamme.xml</path>
@@ -325,11 +335,6 @@
   <!-- Intérieur -->
   <model>
     <path>Aircraft/MirageIII/Models/Interior/interior.xml</path>
-    <offsets>
-      <x-m> 0 </x-m>
-      <y-m> 0 </y-m>
-      <z-m> 0 </z-m>
-    </offsets>
   </model>
 
   <!-- Animations des ailerons -->
