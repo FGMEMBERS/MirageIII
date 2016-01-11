@@ -7,7 +7,8 @@
 
     <description>Mirage 5</description>
     <author>BARANGER Emmanuel</author>
-
+    <variant-of>mirageIIING</variant-of>
+    
     <rating>
       <FDM type="int">     3 </FDM>
       <systems type="int"> 1 </systems>
@@ -18,4 +19,3 @@
   </sim>
 
 </PropertyList>
-
